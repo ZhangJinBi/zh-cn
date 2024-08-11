@@ -25,7 +25,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学习与工作经历
-- *2021.07 - 至今*, <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/ahu_logo.png" width="23pt"></a> 安徽大学 数学科学学院, 讲师
+- *2024.01 - 至今*, <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/ahu_logo.png" width="23pt"></a> 安徽大学 数学科学学院, 讲师
 - *2021.07 - 2023.12*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku_logo.png" width="23pt"></a> 北京大学 数学科学学院, 博士后（合作导师：张继平教授）
 - *2015.09 - 2021.06*, <a href="https://www.cnu.edu.cn/"><img class="svg" src="/images/cnu_logo.png" width="20pt"></a> 首都师范大学 数学科学学院, 硕博连读（导师：惠昌常教授）
  
